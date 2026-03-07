@@ -53,8 +53,8 @@
 
 ## 📜 Certifications
 - ✅ Intro to Programming — Kaggle
+- ✅ Python — Kaggle
 - ✅ Python (Silver Badge) — HackerRank
-- 🔄 Python — Kaggle *(in progress)*
 - 🔄 HubSpot Academy — ~40 certifications in Marketing, CRM & Sales
 
 ---
