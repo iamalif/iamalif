@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Al Amin Alif 👋
 
-<!--
-**iamalif/iamalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science @ Dalarna University, Sweden  
+🌍 Originally from Bangladesh, based in Sweden  
+🤖 Passionate about Machine Learning & AI  
+🔬 Aspiring Data Scientist | Open to PhD research in the Nordics  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- ✅ Intro to Programming — Kaggle
+- 🔄 Python — Kaggle *(in progress)*
+
+## 🔗 Find me on
+[LinkedIn](https://www.linkedin.com/in/al-amin-alif/) · [Kaggle](https://www.kaggle.com/iamalif) · [HackerRank](https://www.hackerrank.com/profile/alamin_alif)
