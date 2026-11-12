@@ -10,14 +10,16 @@ Alongside my professional work, I am completing the **120-credit Data Science ma
 
 ## Selected work
 
-### [Environmental Disclosure Analysis](https://github.com/iamalif/environmental-disclosure-analysis)
-A group study of 1,347 corporate reports from 2002 to 2016, using rule-based text analysis to examine environmental disclosure patterns. The repository includes the report, presentation and analysis materials. Keyword classifications are treated as proxies for disclosure language, not direct measures of corporate performance.
+| Project | Focus |
+|---|---|
+| [Swedish Job-Ad Explorer](https://github.com/iamalif/swedish-job-ad-explorer) | JobTech API ingestion, PostgreSQL analysis, a Streamlit interface and TF-IDF occupation classification |
+| [Monte Carlo Risk Analysis](https://github.com/iamalif/monte-carlo-risk-analysis) | Hospital-capacity and stock-return simulations in R, with sensitivity analysis and analytical checks |
+| [Environmental Disclosure Analysis](https://github.com/iamalif/environmental-disclosure-analysis) | Group study of 1,347 corporate reports using rule-based text analysis to examine disclosure language |
+| [GeoLife Trip-Purpose Classification](https://github.com/iamalif/geolife-trip-purpose-classification) | GPS feature engineering and comparison of HMMs and Random Forests using synthetic POI context and weak labels |
+| [Data Collection and Quality](https://github.com/iamalif/data-collection-and-quality-msc) | GPS processing, audio-quality assessment, web collection and a voice-privacy research proposal |
+| [Hockey Cup Registration Manager](https://github.com/iamalif/hockey-cup-manager-python) | Python coursework application with separate data-model, repository, storage and interface components |
 
-### [Hockey Cup Management System](https://github.com/iamalif/hockey-cup-manager-python)
-A Python coursework application for team registration, fee tracking, cancellations and reinstatements. Uses separate data-model, repository, storage and interface components, with JSON persistence.
-
-### [R and Data Analysis Coursework](https://github.com/iamalif/r-and-data-analysis-msc)
-R programming, data wrangling and visualisation work, including an analysis of relationships between diamond characteristics and price.
+These projects combine academic work and independent practice. Their READMEs explain data sources, contributions, evaluation choices and limitations. The Calibration Gap is a research proposal, not a conducted participant study.
 
 ## Professional work
 
@@ -38,17 +40,23 @@ These capabilities combine professional experience, university coursework and in
 
 ## Coursework and practice collections
 
-Some repositories are organised learning records containing assignments, exercises and reference material.
+- [Statistical Learning](https://github.com/iamalif/statistical-learning-msc): wine-quality regression, classification, ensembles, SVMs, PCA and clustering.
+- [Applied Machine Learning Practice](https://github.com/iamalif/machine-learning-practice): six classification and regression projects.
+- [R and Data Analysis](https://github.com/iamalif/r-and-data-analysis-msc): R programming, data wrangling, visualisation and analytical reporting.
+- [Python Programming](https://github.com/iamalif/python-programming-msc): assignments, applications and teaching references.
+- [Business Intelligence](https://github.com/iamalif/business-intelligence-msc): data exploration, classification, clustering and text mining.
+- [Python, SQL and Machine Learning Exercises](https://github.com/iamalif/python-coding-challenges): HackerRank and Kaggle practice.
+- [Frontend Development Practice](https://github.com/iamalif/web-dev-projects): HTML, CSS and JavaScript projects.
 
-- [Python Programming Coursework](https://github.com/iamalif/python-programming-msc)
-- [Business Intelligence Coursework](https://github.com/iamalif/business-intelligence-msc)
-- [Python, SQL and Machine Learning Exercises](https://github.com/iamalif/python-coding-challenges)
-- [Frontend Development Practice](https://github.com/iamalif/web-dev-projects)
+Collections retain their academic or learning context, including attribution for supplied exercises and reference material.
+
+## Career direction
+
+I am building my career in Sweden, bringing professional development and AI leadership together with hands-on data science. My interests include applied AI, data science and technical delivery roles where I can connect business requirements with implementation and evaluation.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/al-amin-alif/)
-- [Personal website](https://iamalif.github.io/alaminalif/)
 - [Kaggle](https://www.kaggle.com/iamalif)
 - [HackerRank](https://www.hackerrank.com/profile/alamin_alif)
 - Email: **alamin.alif.7@gmail.com**
